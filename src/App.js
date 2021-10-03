@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import NotFound from './components/NotFound/NotFound';
@@ -15,6 +14,9 @@ function App() {
       <Router>
         <Header></Header>
         <Switch>
+          <Route exact path='/'>
+            <Home></Home>
+          </Route>
           <Route path="/home">
             <Home></Home>
           </Route>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Col, Container, Image, Navbar, Row } from 'react-bootstrap';
+import { Container, Image, Navbar } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 import img from "../../images/backtoschool.jpg";
 
