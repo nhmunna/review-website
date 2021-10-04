@@ -9,6 +9,7 @@ const Course = (props) => {
     return (
         <div>
             <Col>
+            {/* add card to show data */}
                 <Card className="shadow bg-body rounded p-3">
                     <Card.Img variant="top" src={img} />
                     <Card.Body>

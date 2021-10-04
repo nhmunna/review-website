@@ -17,6 +17,7 @@ const Home = () => {
                 <h2 className="text-primary bg-light shadow-sm bg-body rounded">We teach various Mathematics Courses. Here you can see on those</h2>
                 <Row xs={1} md={2} className="g-4 my-4">
                     {
+                        // show only 4 course
                         courses.slice(0, 4).map(course => <Course
                             key={course.id}
                             course={course}
