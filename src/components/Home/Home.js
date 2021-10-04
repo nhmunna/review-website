@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Container, Row } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import Course from '../Course/Course';
 
 
@@ -22,6 +23,9 @@ const Home = () => {
                         ></Course>)
                     }
                 </Row>
+                <Link to="/courses" className="text-decoration-none text-dark">
+                    <h5 >see more</h5>
+                </Link>
             </Container>
         </div>
     );
