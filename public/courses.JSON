@@ -2,70 +2,70 @@
 	{
 		"id": "1",
 		"name": "Calculus",
-		"text": "et, eros. Proin ultrices. Duis volutpat nunc sit amet metus. Aliquam erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus",
+		"text": "Calculus, originally called infinitesimal calculus or the calculus of infinitesimals, is the mathematical study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalizations of arithmetic operations.",
 		"img": "https://lifethroughamathematicianseyes.files.wordpress.com/2019/10/best-calculus-textbooks.png?w=635",
 		"price": "$10"
 	},
 	{
 		"id": "2",
 		"name": "Operation Research",
-		"text": "aliquam eros turpis non enim. Mauris quis turpis vitae purus gravida sagittis. Duis gravida. Praesent eu nulla at sem molestie",
+		"text": "Operations research (OR) is an analytical method of problem-solving and decision-making that is useful in the management of organizations. In operations research, problems are broken down into basic components and then solved in defined steps by mathematical analysis.",
 		"img": "https://thumbs.dreamstime.com/b/conceptual-business-illustration-words-operations-research-conceptual-business-illustration-words-operations-110227146.jpg",
 		"price": "$15"
 	},
 	{
 		"id": "3",
 		"name": "Vector Analysis",
-		"text": "lorem semper auctor. Mauris vel turpis. Aliquam adipiscing lobortis risus. In mi pede, nonummy ut, molestie in, tempus eu, ligula.",
+		"text": "Vector calculus, or vector analysis, is concerned with differentiation and integration of vector fields, primarily in 3-dimensional Euclidean space.",
 		"img": "https://www.researchgate.net/publication/324119742/figure/fig4/AS:610066025697280@1522462483159/Regions-of-interest-for-Change-Vector-Analysis-CVA-in-spherical-coordinates-domain-D.png",
 		"price": "$5"
 	},
 	{
 		"id": "4",
 		"name": "Applied Mathematics",
-		"text": "Sed id risus quis diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.",
+		"text": "Applied mathematics is the application of mathematical methods by different fields such as physics, engineering, medicine, biology, finance, business, computer science, and industry. Thus, applied mathematics is a combination of mathematical science and specialized knowledge.",
 		"img": "https://news.fit.edu/wp-content/uploads/2017/06/math-1-e1497880950572.jpg",
 		"price": "$20"
 	},
 	{
 		"id": "5",
 		"name": "Fluid Dynamics",
-		"text": "Nunc mauris. Morbi non sapien molestie orci tincidunt adipiscing. Mauris molestie pharetra nibh. Aliquam ornare, libero at auctor ullamcorper, nisl",
+		"text": "In physics and engineering, fluid dynamics is a subdiscipline of fluid mechanics that describes the flow of fluids—liquids and gases. It has several subdisciplines, including aerodynamics and hydrodynamics.",
 		"img": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/01/Quantum_NonLinear_520x292-520x292.jpg",
 		"price": "$10"
 	},
 	{
 		"id": "6",
 		"name": "Hydro Dynamics",
-		"text": "Nam ligula elit, pretium et, rutrum non, hendrerit id, ante. Nunc mauris sapien, cursus in, hendrerit consectetuer, cursus et, magna.",
+		"text": "Hydrodynamics deals with the motion of water and the forces acting on water. Hydrodynamic studies focus on investigating the mechanisms driving flow by quantifying the key physical processes in water",
 		"img": "https://www.plm.automation.siemens.com/media/global/fr/EHP_oilflow_1980x1080%20%281%29_tcm55-66952.jpg",
 		"price": "$10"
 	},
 	{
 		"id": "7",
 		"name": "Ordinary Differential Equation",
-		"text": "in aliquet lobortis, nisi nibh lacinia orci, consectetuer euismod est arcu ac orci. Ut semper pretium neque. Morbi quis urna.",
+		"text": "In mathematics, an ordinary differential equation is a differential equation containing one or more functions of one independent variable and the derivatives of those functions.",
 		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgJbbMnW61NqpDq6nQWBPNR79eX9g2WGYnA&usqp=CAU",
 		"price": "$5"
 	},
 	{
 		"id": "8",
 		"name": "Partial Differntial Equation",
-		"text": "Integer id magna et ipsum cursus vestibulum. Mauris magna. Duis dignissim tempor arcu. Vestibulum ut eros non enim commodo hendrerit.",
+		"text": "In mathematics, a partial differential equation is an equation which imposes relations between the various partial derivatives of a multivariable function.",
 		"img": "https://www.mathcity.org/_media/msc/notes/partial-differential-equations-m-usman-hamid.jpg",
 		"price": "$5"
 	},
 	{
 		"id": "9",
 		"name": "Number Theory",
-		"text": "pede. Praesent eu dui. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eget magna. Suspendisse",
+		"text": "Number theory is a branch of pure mathematics devoted primarily to the study of the integers and integer-valued functions. German mathematician Carl Friedrich Gauss said, Mathematics is the queen of the sciences—and number theory is the queen of mathematics.",
 		"img": "http://1.bp.blogspot.com/-jb3E-GcvH8Q/T-xCfJMrnkI/AAAAAAAAAVg/IgujoW3c_Go/s1600/types-of-numbers.png",
 		"price": "$5"
 	},
 	{
 		"id": "10",
 		"name": "Linear Algebra",
-		"text": "montes, nascetur ridiculus mus. Aenean eget magna. Suspendisse tristique neque venenatis lacus. Etiam bibendum fermentum metus. Aenean sed pede nec",
+		"text": "Linear algebra is the branch of mathematics concerning linear equations such as: linear maps such as: and their representations in vector spaces and through matrices. Linear algebra is central to almost all areas of mathematics.",
 		"img": "https://thumbs.dreamstime.com/b/linear-algebra-complex-like-puzzle-pictured-as-word-linear-algebra-puzzle-pieces-to-show-linear-algebra-can-be-164220956.jpg",
 		"price": "$5"
 	}

@@ -1,6 +1,7 @@
 import React from 'react';
-import { Card, Col } from 'react-bootstrap';
+import { Button, Card, Col } from 'react-bootstrap';
 import Rating from 'react-rating';
+import { Link } from 'react-router-dom';
 
 const Course = (props) => {
     const { name, text, img, price } = props.course;
@@ -25,6 +26,13 @@ const Course = (props) => {
                             />
                         </div>
                     </Card.Body>
+                    <div className="d-grid gap-2">
+                        <Link to="/courses">
+                            <Button variant="warning w-100" size="lg">
+                                Enroll Now
+                            </Button>
+                        </Link>
+                    </div>
                 </Card>
             </Col>
         </div>
