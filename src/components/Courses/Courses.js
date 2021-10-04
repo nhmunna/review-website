@@ -10,7 +10,7 @@ const Courses = () => {
         fetch('./courses.JSON')
             .then(res => res.json())
             .then(data => setCourses(data))
-    }, [])
+    }, []);
     return (
         <div >
             <Container className="bg-light bg-gradient shadow rounded">

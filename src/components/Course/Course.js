@@ -1,8 +1,9 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
+import Rating from 'react-rating';
 
 const Course = (props) => {
-    const { name, text, img } = props.course;
+    const { name, text, img, price } = props.course;
 
     return (
         <div>
@@ -14,6 +15,15 @@ const Course = (props) => {
                         <Card.Text>
                             {text}
                         </Card.Text>
+                        <div className="d-flex justify-content-between">
+                            <h2 className="text-warning">{price}</h2>
+                            <Rating
+                                emptySymbol="fas fa-star fas-2x"
+                                fullSymbol="far fa-star far-2x"
+                                readonly
+                                className="text-warning"
+                            />
+                        </div>
                     </Card.Body>
                 </Card>
             </Col>
